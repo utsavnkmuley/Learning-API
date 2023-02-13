@@ -1,0 +1,16 @@
+.t1 {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+.xclose {
+    margin-top: -14px;
+    position: absolute;
+    margin-left: -9px;
+}

@@ -1,0 +1,2 @@
+C:\Users\Utsav\source\repos\apipracticewin\apipracticewin\obj\Debug\apipracticewin.esproj.SuggestedBindingRedirects.cache
+C:\Users\Utsav\source\repos\apipracticewin\apipracticewin\obj\Debug\apipracticewin.esproj.CoreCompileInputs.cache
